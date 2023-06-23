@@ -1,0 +1,18 @@
+.record-card {
+  border: 1px solid black;
+  width: calc(16% - 20px);
+  margin: 5px;
+}
+
+.record-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  border: 1px solid black;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.H2-title {
+  background-color: aqua;
+}
